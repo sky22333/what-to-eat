@@ -1,0 +1,22 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "what-to-eat",
+  "description": "今天吃什么 - 美食选择器",
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": true,
+    "compileHotReLoad": true,
+    "postcss": true,
+    "minified": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "libVersion": "3.7.0",
+  "condition": {}
+}
